@@ -105,5 +105,5 @@ for i, f in enumerate(count_final[:]):
             break
 
 
-with open('output.json', 'w') as f:
+with open('conflict.json', 'w') as f:
     json.dump(count_final_dict, f, indent='\t')
