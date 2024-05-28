@@ -8,35 +8,11 @@
 			"Rescue & Vengeance"
 		]
 	},
-	"138": {
-		"file": "common\\culture\\name_lists\\RICE_iranian.txt",
-		"count": 2,
-		"mods": [
-			"Regional Immersion and Cultural Enrichment (RICE)",
-			"Culture Expanded"
-		]
-	},
-	"139": {
-		"file": "common\\culture\\pillars\\BAP_guanche_language.txt",
-		"count": 2,
-		"mods": [
-			"Regional Immersion and Cultural Enrichment (RICE)",
-			"Culture Expanded"
-		]
-	},
 	"142": {
 		"file": "gfx\\interface\\illustrations\\scripted_illustrations\\barbershop.txt",
 		"count": 2,
 		"mods": [
 			"Community Flavor Pack",
-			"Dark Ages"
-		]
-	},
-	"3102": {
-		"file": "common\\men_at_arms_types\\_men_at_arms_types.info",
-		"count": 2,
-		"mods": [
-			"Culture Expanded",
 			"Dark Ages"
 		]
 	}

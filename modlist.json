@@ -21,7 +21,7 @@
 			"steamId": "2220098919"
 		},
 		{
-			"displayName": "Ethnicities & Portraits Expanded",
+			"displayName": "Ethnicities and Portraits Expanded",
 			"enabled": true,
 			"position": 3,
 			"steamId": "2507209632"
@@ -45,7 +45,7 @@
 			"steamId": "2553043828"
 		},
 		{
-			"displayName": "Unit Packs Expanded",
+			"displayName": "Unit Pack Expanded",
 			"enabled": true,
 			"position": 7,
 			"steamId": "2818979385"
@@ -99,28 +99,28 @@
 			"steamId": "2825977309"
 		},
 		{
-			"displayName": "Inheritable Relations",
+			"displayName": "Unfinished Business",
 			"enabled": true,
 			"position": 16,
 			"steamId": "2829009590"
 		},
 		{
-			"displayName": "Dark Ages",
+			"displayName": "Rescue & Vengeance",
 			"enabled": true,
 			"position": 17,
+			"steamId": "3089046758"
+		},
+		{
+			"displayName": "Dark Ages",
+			"enabled": true,
+			"position": 18,
 			"steamId": "2975514448"
 		},
 		{
 			"displayName": "Big Battle View",
 			"enabled": true,
-			"position": 18,
-			"steamId": "3030427202"
-		},
-		{
-			"displayName": "Rescue & Vengeance",
-			"enabled": true,
 			"position": 19,
-			"steamId": "3089046758"
+			"steamId": "3030427202"
 		},
 		{
 			"displayName": "Warden Vassal Contract",
