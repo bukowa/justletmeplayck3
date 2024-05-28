@@ -54,6 +54,8 @@ def filter_out_file(_f):
         'descriptor.mod',
         'thumbnail.png',
         '.gitattributes',
+        'gui\\toolspropertytypes.gui',
+        'gui\\tool_property_randomizable_types.gui'
     ]:
         return False
     if _f.endswith('.info'):

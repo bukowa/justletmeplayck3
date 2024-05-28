@@ -5,7 +5,7 @@ from pathlib import Path
 steam_dir = Path(r"C:\Program Files (x86)\Steam\steamapps\workshop\content\1158310")
 
 # find mods with this file
-file = "00_tribal_buildings.txt"
+file = "99_background_graphics_buildings.txt"
 
 def search_files(directory):
     found_files = []

@@ -151,6 +151,48 @@
 			"enabled": true,
 			"position": 24,
 			"steamId": "3082182371"
+		},
+		{
+			"displayName": "Brighter Text Colors",
+			"enabled": true,
+			"position": 25,
+			"steamId": "2234245906"
+		},
+		{
+			"displayName": "More Lifestyles",
+			"enabled": true,
+			"position": 26,
+			"steamId": "3013259695"
+		},
+		{
+			"displayName": "Increased Zoom",
+			"enabled": true,
+			"position": 27,
+			"steamId": "2891641440"
+		},
+		{
+			"displayName": "Medieval Arts",
+			"enabled": true,
+			"position": 28,
+			"steamId": "2452585382"
+		},
+		{
+			"displayName": "Medieval Arts - More Special Buildings",
+			"enabled": true,
+			"position": 29,
+			"steamId": "2692079378"
+		},
+		{
+			"displayName": "More Buildings Reboot",
+			"enabled": true,
+			"position": 30,
+			"steamId": "2943715129"
+		},
+		{
+			"displayName": "Cities of Wonder 3",
+			"enabled": true,
+			"position": 31,
+			"steamId": "2901477267"
 		}
 	]
 }
