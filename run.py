@@ -13,6 +13,12 @@ def mod_dir(mod_path):
 with open('modlist.json') as f:
     x = sorted(json.load(f)['mods'], key=lambda d: d['position'])
 
+with open('modlist.json', 'r+') as f:
+    obj = json.load(f)
+    f.seek(0); f.truncate()
+    json.dump(obj, f, indent='\t')
+
+
 unique = {}
 for mod in x:
     if unique.get(mod['steamId']):
@@ -82,6 +88,7 @@ for mod in x:
 
 with open('rules.json') as f:
     rules = json.load(f)
+
 
 # modify rules, instead of implementing
 # algorithm for matching cuz I am lazy for now
