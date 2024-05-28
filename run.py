@@ -83,11 +83,27 @@ for mod in x:
 with open('rules.json') as f:
     rules = json.load(f)
 
+# modify rules, instead of implementing
+# algorithm for matching cuz I am lazy for now
+for rule in rules[:]:
+    new_rules = []
+    for i in range(1, len(rule) + 1):
+        new_rules.append(rule[:i])
+    rules.extend(new_rules)
+
+
+count_final_dict = dict(enumerate(count_final))
+
+
 for i, f in enumerate(count_final[:]):
+
     for rule in rules:
+
+        # exact rule match
         if f['mods'] == rule:
-            count_final.pop(i)
+            count_final_dict.pop(i)
+            break
 
 
 with open('output.json', 'w') as f:
-    json.dump(count_final, f, indent='\t')
+    json.dump(count_final_dict, f, indent='\t')
