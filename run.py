@@ -56,6 +56,8 @@ def filter_out_file(_f):
         '.gitattributes',
     ]:
         return False
+    if _f.endswith('.info'):
+        return False
     return True
 
 
