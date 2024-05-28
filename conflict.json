@@ -1,19 +1,14 @@
 {
-	"2": {
-		"file": "gui\\interaction_declare_war.gui",
-		"count": 3,
-		"mods": [
-			"Unofficial Patch",
-			"More Interactive Vassals",
-			"Rescue & Vengeance"
-		]
-	},
 	"142": {
 		"file": "gfx\\interface\\illustrations\\scripted_illustrations\\barbershop.txt",
 		"count": 2,
 		"mods": [
 			"Community Flavor Pack",
 			"Dark Ages"
+		],
+		"steamIds": [
+			"2220098919",
+			"2975514448"
 		]
 	}
 }

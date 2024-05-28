@@ -83,9 +83,14 @@ for mod in x:
     for f in mod['files']:
         if count_modified.get(f):
             iof = count_modified_list.index(f)
+
             cmods = count_final[iof]['mods']
             cmods.append(mod['displayName'])
             count_final[iof]['mods'] = cmods
+
+            csteamIds = count_final[iof].get('steamIds', [])
+            csteamIds.append(mod['steamId'])
+            count_final[iof]['steamIds'] = csteamIds
 
 
 with open('rules.json') as f:
@@ -104,6 +109,10 @@ for rule in rules[:]:
 count_final_dict = dict(enumerate(count_final))
 
 
+with open('rules_filemodifiedtime.json') as f:
+    rules_filemodifiedtime = json.load(f)
+
+
 for i, f in enumerate(count_final[:]):
 
     for rule in rules:
@@ -112,6 +121,22 @@ for i, f in enumerate(count_final[:]):
         if f['mods'] == rule:
             count_final_dict.pop(i)
             break
+
+    for rule in rules_filemodifiedtime:
+
+        if f['mods'] == rule['mods']:
+
+            for mindex, mtime in enumerate(rule['modified']):
+                if mtime == '':
+                    continue
+                mtime = float(mtime)
+                fmfile = mod_dir(f['steamIds'][mindex]) / Path(f['file'])
+                fmtime = os.path.getmtime(fmfile)
+
+                if fmtime != mtime:
+                    raise Exception([rule, f"bad modified time: {mtime} != {fmtime}"])
+
+            count_final_dict.pop(i)
 
 
 with open('conflict.json', 'w') as f:
