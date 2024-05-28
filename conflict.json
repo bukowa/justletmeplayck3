@@ -1,58 +1,5 @@
 {
-	"0": {
-		"file": "gui\\toolspropertytypes.gui",
-		"count": 6,
-		"mods": [
-			"Foundational Framework",
-			"Gamerule Gadget",
-			"In My Humble Opinion",
-			"Ethnicities & Portraits Expanded",
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
-	"1": {
-		"file": "gui\\tool_property_randomizable_types.gui",
-		"count": 6,
-		"mods": [
-			"Foundational Framework",
-			"Gamerule Gadget",
-			"In My Humble Opinion",
-			"Ethnicities & Portraits Expanded",
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
 	"2": {
-		"file": "common\\genes\\05_genes_special_accessories_clothes.txt",
-		"count": 4,
-		"mods": [
-			"Unofficial Patch",
-			"Community Flavor Pack",
-			"Ethnicities & Portraits Expanded",
-			"CFP + EPE Compatibility Patch"
-		]
-	},
-	"3": {
-		"file": "common\\genes\\07_genes_special_accessories_misc.txt",
-		"count": 4,
-		"mods": [
-			"Unofficial Patch",
-			"Community Flavor Pack",
-			"Ethnicities & Portraits Expanded",
-			"CFP + EPE Compatibility Patch"
-		]
-	},
-	"4": {
-		"file": "common\\on_action\\travel_on_actions.txt",
-		"count": 3,
-		"mods": [
-			"Unofficial Patch",
-			"Foundational Framework",
-			"Dark Ages"
-		]
-	},
-	"5": {
 		"file": "gui\\interaction_declare_war.gui",
 		"count": 3,
 		"mods": [
@@ -61,194 +8,7 @@
 			"Rescue & Vengeance"
 		]
 	},
-	"6": {
-		"file": "gui\\window_barbershop.gui",
-		"count": 3,
-		"mods": [
-			"Unofficial Patch",
-			"Community Flavor Pack",
-			"Ethnicities & Portraits Expanded"
-		]
-	},
-	"19": {
-		"file": "common\\game_concepts\\000_FF_game_concepts.txt",
-		"count": 3,
-		"mods": [
-			"Gamerule Gadget",
-			"In My Humble Opinion",
-			"Inherichance"
-		]
-	},
-	"20": {
-		"file": "gui\\000_FF_texticons.gui",
-		"count": 3,
-		"mods": [
-			"Gamerule Gadget",
-			"In My Humble Opinion",
-			"Inherichance"
-		]
-	},
-	"57": {
-		"file": "gfx\\models\\portraits\\attachments\\female_headgear\\special\\ep2_mena\\wedding\\f_headgear_spec_ep2_mena_wedding.asset",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Ethnicities & Portraits Expanded"
-		]
-	},
-	"58": {
-		"file": "gfx\\models\\portraits\\attachments\\male_headgears\\secular\\dde_hre\\common_01\\male_headgear_secular_dde_hre_common_01.asset",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Ethnicities & Portraits Expanded"
-		]
-	},
-	"59": {
-		"file": "gfx\\models\\portraits\\attachments\\male_headgears\\secular\\ep1\\mena_royalty_02\\male_headgear_secular_ep1_mena_royalty_02.asset",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Ethnicities & Portraits Expanded"
-		]
-	},
-	"60": {
-		"file": "gfx\\portraits\\portrait_modifiers\\00_custom_clothes.txt",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Community Flavor Pack"
-		]
-	},
-	"61": {
-		"file": "gfx\\portraits\\portrait_modifiers\\00_custom_headgear.txt",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Community Flavor Pack"
-		]
-	},
-	"62": {
-		"file": "gfx\\portraits\\portrait_modifiers\\00_custom_legwear.txt",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Community Flavor Pack"
-		]
-	},
-	"63": {
-		"file": "gfx\\portraits\\portrait_modifiers\\02_all_historical_characters.txt",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Ethnicities & Portraits Expanded"
-		]
-	},
-	"64": {
-		"file": "gui\\hud.gui",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Prisoners of War"
-		]
-	},
-	"65": {
-		"file": "gui\\event_windows\\character_event.gui",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Nameplates"
-		]
-	},
-	"66": {
-		"file": "gui\\shared\\cooltip.gui",
-		"count": 2,
-		"mods": [
-			"Unofficial Patch",
-			"Prisoners of War"
-		]
-	},
-	"67": {
-		"file": "common\\council_tasks\\_council_tasks.info",
-		"count": 2,
-		"mods": [
-			"Foundational Framework",
-			"Dark Ages"
-		]
-	},
-	"68": {
-		"file": "gfx\\ff_gfx\\screenshots\\IMHO_pov_opinion_1.dds",
-		"count": 2,
-		"mods": [
-			"Foundational Framework",
-			"In My Humble Opinion"
-		]
-	},
-	"69": {
-		"file": "gfx\\ff_gfx\\screenshots\\IMHO_pov_opinion_2.dds",
-		"count": 2,
-		"mods": [
-			"Foundational Framework",
-			"In My Humble Opinion"
-		]
-	},
-	"70": {
-		"file": "gfx\\ff_gfx\\screenshots\\IMHO_pov_opinion_3.dds",
-		"count": 2,
-		"mods": [
-			"Foundational Framework",
-			"In My Humble Opinion"
-		]
-	},
-	"71": {
-		"file": "gfx\\interface\\icons\\alerts\\action_PoW_foundational_framework_required.dds",
-		"count": 2,
-		"mods": [
-			"Foundational Framework",
-			"Prisoners of War"
-		]
-	},
-	"72": {
-		"file": "gfx\\interface\\icons\\alerts\\mmm_ff_icon.dds",
-		"count": 2,
-		"mods": [
-			"Foundational Framework",
-			"Inherichance"
-		]
-	},
-	"73": {
-		"file": "localization\\english\\FF_game_concepts_l_english.yml",
-		"count": 2,
-		"mods": [
-			"Gamerule Gadget",
-			"Prisoners of War"
-		]
-	},
-	"74": {
-		"file": "description.txt",
-		"count": 2,
-		"mods": [
-			"In My Humble Opinion",
-			"Prisoners of War"
-		]
-	},
-	"75": {
-		"file": "gui\\window_character.gui",
-		"count": 2,
-		"mods": [
-			"In My Humble Opinion",
-			"Ethnicities & Portraits Expanded"
-		]
-	},
-	"76": {
-		"file": "localization\\english\\000_FF_game_concepts_l_english.yml",
-		"count": 2,
-		"mods": [
-			"In My Humble Opinion",
-			"Inherichance"
-		]
-	},
-	"166": {
+	"138": {
 		"file": "common\\culture\\name_lists\\RICE_iranian.txt",
 		"count": 2,
 		"mods": [
@@ -256,7 +16,7 @@
 			"Culture Expanded"
 		]
 	},
-	"167": {
+	"139": {
 		"file": "common\\culture\\pillars\\BAP_guanche_language.txt",
 		"count": 2,
 		"mods": [
@@ -264,7 +24,7 @@
 			"Culture Expanded"
 		]
 	},
-	"170": {
+	"142": {
 		"file": "gfx\\interface\\illustrations\\scripted_illustrations\\barbershop.txt",
 		"count": 2,
 		"mods": [
@@ -272,124 +32,12 @@
 			"Dark Ages"
 		]
 	},
-	"173": {
-		"file": "gfx\\portraits\\portrait_modifiers\\CFP_clothes.txt",
-		"count": 2,
-		"mods": [
-			"Community Flavor Pack",
-			"CFP + EPE Compatibility Patch"
-		]
-	},
-	"174": {
-		"file": "gfx\\portraits\\portrait_modifiers\\CFP_headgear_armor.txt",
-		"count": 2,
-		"mods": [
-			"Community Flavor Pack",
-			"CFP + EPE Compatibility Patch"
-		]
-	},
-	"175": {
-		"file": "gfx\\portraits\\portrait_modifiers\\CFP_headgear_base.txt",
-		"count": 2,
-		"mods": [
-			"Community Flavor Pack",
-			"CFP + EPE Compatibility Patch"
-		]
-	},
-	"176": {
-		"file": "gfx\\portraits\\portrait_modifiers\\CFP_headgear_religious.txt",
-		"count": 2,
-		"mods": [
-			"Community Flavor Pack",
-			"CFP + EPE Compatibility Patch"
-		]
-	},
-	"177": {
-		"file": "gfx\\portraits\\portrait_modifiers\\CFP_headgear_special.txt",
-		"count": 2,
-		"mods": [
-			"Community Flavor Pack",
-			"CFP + EPE Compatibility Patch"
-		]
-	},
-	"3130": {
+	"3102": {
 		"file": "common\\men_at_arms_types\\_men_at_arms_types.info",
 		"count": 2,
 		"mods": [
 			"Culture Expanded",
 			"Dark Ages"
-		]
-	},
-	"3131": {
-		"file": "gfx\\mod_icons\\mmm_bmu_icon.dds",
-		"count": 2,
-		"mods": [
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
-	"3132": {
-		"file": "gfx\\mod_icons\\mmm_ff_icon.dds",
-		"count": 2,
-		"mods": [
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
-	"3133": {
-		"file": "gfx\\mod_icons\\mmm_icon.dds",
-		"count": 2,
-		"mods": [
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
-	"3134": {
-		"file": "gfx\\mod_icons\\mmm_imho_icon.dds",
-		"count": 2,
-		"mods": [
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
-	"3135": {
-		"file": "gfx\\mod_icons\\mmm_inherichance_icon.dds",
-		"count": 2,
-		"mods": [
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
-	"3136": {
-		"file": "gfx\\mod_icons\\mmm_ltaf_icon.dds",
-		"count": 2,
-		"mods": [
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
-	"3137": {
-		"file": "gfx\\mod_icons\\mmm_pow_icon.dds",
-		"count": 2,
-		"mods": [
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
-	"3138": {
-		"file": "gfx\\mod_icons\\mmm_tot_icon.dds",
-		"count": 2,
-		"mods": [
-			"Prisoners of War",
-			"Inherichance"
-		]
-	},
-	"3139": {
-		"file": "descpage.info",
-		"count": 2,
-		"mods": [
-			"Social Relations Expanded (SRE)",
-			"Inheritable Relations"
 		]
 	}
 }

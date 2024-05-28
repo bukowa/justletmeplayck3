@@ -9,153 +9,123 @@
 			"steamId": "2871648329"
 		},
 		{
-			"displayName": "Foundational Framework",
-			"enabled": true,
-			"position": 1,
-			"steamId": "2975079361"
-		},
-		{
-			"displayName": "Gamerule Gadget",
-			"enabled": true,
-			"position": 2,
-			"steamId": "2826829936"
-		},
-		{
-			"displayName": "In My Humble Opinion",
-			"enabled": true,
-			"position": 3,
-			"steamId": "2625307328"
-		},
-		{
 			"displayName": "Regional Immersion and Cultural Enrichment (RICE)",
 			"enabled": true,
-			"position": 4,
+			"position": 1,
 			"steamId": "2273832430"
 		},
 		{
 			"displayName": "Community Flavor Pack",
 			"enabled": true,
-			"position": 5,
+			"position": 2,
 			"steamId": "2220098919"
 		},
 		{
 			"displayName": "Ethnicities & Portraits Expanded",
 			"enabled": true,
-			"position": 6,
+			"position": 3,
 			"steamId": "2507209632"
 		},
 		{
 			"displayName": "CFP + EPE Compatibility Patch",
 			"enabled": true,
-			"position": 7,
+			"position": 4,
 			"steamId": "2996881191"
 		},
 		{
 			"displayName": "Culture Expanded",
 			"enabled": true,
-			"position": 8,
+			"position": 5,
 			"steamId": "2829397295"
 		},
 		{
 			"displayName": "RICE + EPE Compatibility Patch",
 			"enabled": true,
-			"position": 9,
+			"position": 6,
 			"steamId": "2553043828"
 		},
 		{
 			"displayName": "Unit Packs Expanded",
 			"enabled": true,
-			"position": 10,
+			"position": 7,
 			"steamId": "2818979385"
 		},
 		{
 			"displayName": "Nameplates",
 			"enabled": true,
-			"position": 11,
+			"position": 8,
 			"steamId": "2220762808"
 		},
 		{
 			"displayName": "199 Immersive Loading Screens",
 			"enabled": true,
-			"position": 12,
+			"position": 9,
 			"steamId": "2227406359"
 		},
 		{
 			"displayName": "VIET Events - A Flavor and Immersion Event Mod",
 			"enabled": true,
-			"position": 13,
+			"position": 10,
 			"steamId": "2227658180"
-		},
-		{
-			"displayName": "Prisoners of War",
-			"enabled": true,
-			"position": 14,
-			"steamId": "2511247871"
-		},
-		{
-			"displayName": "Inherichance",
-			"enabled": true,
-			"position": 15,
-			"steamId": "2569507763"
 		},
 		{
 			"displayName": "More Interactive Vassals",
 			"enabled": true,
-			"position": 16,
+			"position": 11,
 			"steamId": "2712590542"
 		},
 		{
 			"displayName": "Better Marriage (AI)",
 			"enabled": true,
-			"position": 17,
+			"position": 12,
 			"steamId": "2749533543"
 		},
 		{
 			"displayName": "Mass Demand Conversion",
 			"enabled": true,
-			"position": 18,
+			"position": 13,
 			"steamId": "2753176859"
 		},
 		{
 			"displayName": "Better AI Education",
 			"enabled": true,
-			"position": 19,
+			"position": 14,
 			"steamId": "2753934263"
 		},
 		{
 			"displayName": "Social Relations Expanded (SRE)",
 			"enabled": true,
-			"position": 20,
+			"position": 15,
 			"steamId": "2825977309"
 		},
 		{
 			"displayName": "Inheritable Relations",
 			"enabled": true,
-			"position": 21,
+			"position": 16,
 			"steamId": "2829009590"
 		},
 		{
 			"displayName": "Dark Ages",
 			"enabled": true,
-			"position": 22,
+			"position": 17,
 			"steamId": "2975514448"
 		},
 		{
 			"displayName": "Big Battle View",
 			"enabled": true,
-			"position": 23,
+			"position": 18,
 			"steamId": "3030427202"
 		},
 		{
 			"displayName": "Rescue & Vengeance",
 			"enabled": true,
-			"position": 24,
+			"position": 19,
 			"steamId": "3089046758"
 		},
 		{
 			"displayName": "Warden Vassal Contract",
 			"enabled": true,
-			"position": 25,
+			"position": 20,
 			"steamId": "2683654050"
 		}
 	]
