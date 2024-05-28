@@ -9,8 +9,8 @@ def file_path(mod_file_path):
 
 
 files = [
-    "2712590542/gui/interaction_declare_war.gui",
-    "3089046758/gui/interaction_declare_war.gui",
+    "2975514448\\common\\on_action\\travel_on_actions.txt",
+    "3082182371\\common\\on_action\\travel_on_actions.txt",
 ]
 
 

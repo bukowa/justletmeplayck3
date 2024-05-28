@@ -127,6 +127,30 @@
 			"enabled": true,
 			"position": 20,
 			"steamId": "2683654050"
+		},
+		{
+			"displayName": "Lifespan Traits",
+			"enabled": true,
+			"position": 21,
+			"steamId": "2692655730"
+		},
+		{
+			"displayName": "Commanders+",
+			"enabled": true,
+			"position": 22,
+			"steamId": "3191893683"
+		},
+		{
+			"displayName": "Snowfall Visual Effect",
+			"enabled": true,
+			"position": 23,
+			"steamId": "2905322430"
+		},
+		{
+			"displayName": "Travelers",
+			"enabled": true,
+			"position": 24,
+			"steamId": "3082182371"
 		}
 	]
 }
