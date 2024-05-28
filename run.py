@@ -10,7 +10,7 @@ def mod_dir(mod_path):
     return steam_dir / Path(mod_path)
 
 
-with open('EXPANDED.json') as f:
+with open('modlist.json') as f:
     x = sorted(json.load(f)['mods'], key=lambda d: d['position'])
 
 unique = {}
@@ -69,8 +69,6 @@ count_final = list(map(lambda _f: {
     'mods': [],
 }, count_modified.items()))
 
-__F = list(count_modified.keys())[25]
-
 count_modified_list = list(count_modified.keys())
 
 for mod in x:
@@ -81,3 +79,15 @@ for mod in x:
             cmods.append(mod['displayName'])
             count_final[iof]['mods'] = cmods
 
+
+with open('rules.json') as f:
+    rules = json.load(f)
+
+for i, f in enumerate(count_final[:]):
+    for rule in rules:
+        if f['mods'] == rule:
+            count_final.pop(i)
+
+
+with open('output.json', 'w') as f:
+    json.dump(count_final, f, indent='\t')
