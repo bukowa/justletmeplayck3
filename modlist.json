@@ -193,6 +193,18 @@
 			"enabled": true,
 			"position": 31,
 			"steamId": "2901477267"
+		},
+		{
+			"displayName": "Real Eyes 2.0",
+			"enabled": true,
+			"position": 32,
+			"steamId": "3150612985"
+		},
+		{
+			"displayName": "obfusCKate - Hidden Information",
+			"enabled": true,
+			"position": 33,
+			"steamId": "2874007571"
 		}
 	]
 }

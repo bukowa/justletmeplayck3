@@ -9,8 +9,8 @@ def file_path(mod_file_path):
 
 
 files = [
-    "2975514448\\common\\on_action\\travel_on_actions.txt",
-    "3082182371\\common\\on_action\\travel_on_actions.txt",
+    "2507209632\\gui\\window_character.gui",
+    "2797936557\\gui\\window_character.gui",
 ]
 
 

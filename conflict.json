@@ -1,5 +1,21 @@
 {
-	"146": {
+	"2": {
+		"file": "gui\\interaction_declare_war.gui",
+		"count": 4,
+		"mods": [
+			"Unofficial Patch",
+			"More Interactive Vassals",
+			"Rescue & Vengeance",
+			"obfusCKate - Hidden Information"
+		],
+		"steamIds": [
+			"2871648329",
+			"2712590542",
+			"3089046758",
+			"2874007571"
+		]
+	},
+	"153": {
 		"file": "gfx\\interface\\illustrations\\scripted_illustrations\\barbershop.txt",
 		"count": 2,
 		"mods": [
@@ -11,244 +27,64 @@
 			"2975514448"
 		]
 	},
-	"3106": {
-		"file": "gfx\\models\\buildings\\special\\koutoubia\\koutoubia.asset",
+	"3103": {
+		"file": "gfx\\portraits\\eye_palette.dds",
 		"count": 2,
 		"mods": [
-			"Medieval Arts",
-			"Cities of Wonder 3"
+			"Ethnicities & Portraits Expanded",
+			"Real Eyes 2.0"
 		],
 		"steamIds": [
-			"2452585382",
-			"2901477267"
-		]
-	},
-	"3107": {
-		"file": "gfx\\models\\buildings\\special\\koutoubia\\koutoubia.mesh",
-		"count": 2,
-		"mods": [
-			"Medieval Arts",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2452585382",
-			"2901477267"
-		]
-	},
-	"3108": {
-		"file": "gfx\\models\\buildings\\special\\koutoubia\\koutoubia_unique.dds",
-		"count": 2,
-		"mods": [
-			"Medieval Arts",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2452585382",
-			"2901477267"
-		]
-	},
-	"3109": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_district.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3110": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_expansion.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3111": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_farming.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3112": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_horse.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3113": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_hospital.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
+			"2507209632",
+			"3150612985"
 		]
 	},
 	"3114": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_improvements.dds",
+		"file": "gui\\window_character.gui",
 		"count": 2,
 		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
+			"Ethnicities & Portraits Expanded",
+			"obfusCKate - Hidden Information"
 		],
 		"steamIds": [
-			"2943715129",
-			"2901477267"
+			"2507209632",
+			"2874007571"
 		]
 	},
 	"3115": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_interior.dds",
+		"file": "common\\activities\\activity_types\\feast.txt",
 		"count": 2,
 		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
+			"Dark Ages",
+			"obfusCKate - Hidden Information"
 		],
 		"steamIds": [
-			"2943715129",
-			"2901477267"
+			"2975514448",
+			"2874007571"
 		]
 	},
 	"3116": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_militia.dds",
+		"file": "common\\schemes\\seduce_scheme.txt",
 		"count": 2,
 		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
+			"Dark Ages",
+			"obfusCKate - Hidden Information"
 		],
 		"steamIds": [
-			"2943715129",
-			"2901477267"
+			"2975514448",
+			"2874007571"
 		]
 	},
 	"3117": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_raiding.dds",
+		"file": "gui\\window_combat.gui",
 		"count": 2,
 		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
+			"Big Battle View",
+			"obfusCKate - Hidden Information"
 		],
 		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3118": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_slaughterhouse.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3119": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_support.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3120": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_town.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3121": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_Town_square.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3122": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_tribeport.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3123": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_tunnel.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3124": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_vineyard.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
-		]
-	},
-	"3125": {
-		"file": "gfx\\interface\\icons\\building_types\\icon_building_war.dds",
-		"count": 2,
-		"mods": [
-			"More Buildings Reboot",
-			"Cities of Wonder 3"
-		],
-		"steamIds": [
-			"2943715129",
-			"2901477267"
+			"3030427202",
+			"2874007571"
 		]
 	}
 }
