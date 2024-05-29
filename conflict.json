@@ -15,7 +15,21 @@
 			"2874007571"
 		]
 	},
-	"153": {
+	"4": {
+		"file": "gui\\map_icon_layer.gui",
+		"count": 3,
+		"mods": [
+			"Unofficial Patch",
+			"CoA Rally Points",
+			"obfusCKate - Hidden Information"
+		],
+		"steamIds": [
+			"2871648329",
+			"3081701005",
+			"2874007571"
+		]
+	},
+	"158": {
 		"file": "gfx\\interface\\illustrations\\scripted_illustrations\\barbershop.txt",
 		"count": 2,
 		"mods": [
@@ -27,7 +41,7 @@
 			"2975514448"
 		]
 	},
-	"3103": {
+	"3108": {
 		"file": "gfx\\portraits\\eye_palette.dds",
 		"count": 2,
 		"mods": [
@@ -39,7 +53,7 @@
 			"3150612985"
 		]
 	},
-	"3114": {
+	"3119": {
 		"file": "gui\\window_character.gui",
 		"count": 2,
 		"mods": [
@@ -51,7 +65,7 @@
 			"2874007571"
 		]
 	},
-	"3115": {
+	"3120": {
 		"file": "common\\activities\\activity_types\\feast.txt",
 		"count": 2,
 		"mods": [
@@ -63,7 +77,7 @@
 			"2874007571"
 		]
 	},
-	"3116": {
+	"3121": {
 		"file": "common\\schemes\\seduce_scheme.txt",
 		"count": 2,
 		"mods": [
@@ -75,7 +89,7 @@
 			"2874007571"
 		]
 	},
-	"3117": {
+	"3122": {
 		"file": "gui\\window_combat.gui",
 		"count": 2,
 		"mods": [

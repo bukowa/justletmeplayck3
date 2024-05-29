@@ -201,9 +201,33 @@
 			"steamId": "3150612985"
 		},
 		{
-			"displayName": "obfusCKate - Hidden Information",
+			"displayName": "More Navigable Rivers 2",
 			"enabled": true,
 			"position": 33,
+			"steamId": "2219623397"
+		},
+		{
+			"displayName": "CoA Rally Points",
+			"enabled": true,
+			"position": 34,
+			"steamId": "3081701005"
+		},
+		{
+			"displayName": "Raised Army CoA",
+			"enabled": true,
+			"position": 35,
+			"steamId": "3076667561"
+		},
+		{
+			"displayName": "Court Artifacts In Inventory",
+			"enabled": true,
+			"position": 36,
+			"steamId": "2776119489"
+		},
+		{
+			"displayName": "obfusCKate - Hidden Information",
+			"enabled": true,
+			"position": 37,
 			"steamId": "2874007571"
 		}
 	]
